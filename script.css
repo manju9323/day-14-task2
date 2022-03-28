@@ -1,0 +1,50 @@
+.container-fluid
+{background-color:#2F3D46;
+color:beige;}
+
+#gitw{
+    padding-left:640px;
+    font-weight:525;
+ letter-spacing:2px;
+}
+#body{
+    background-color:#CAD2C5;
+}
+.border{
+    border:7px solid black;
+    height:500px;
+    background-color:#353535;
+    border-radius: 20px;
+}
+.col2{
+    margin-left:px;
+}
+.siz{
+    background-color:#353535;
+    border-radius: 8px;
+    color:antiquewhite;
+    width:500px;
+    
+}
+.inb{
+    background-color:#353535;
+    border-radius: 8px;
+    height:100px;
+    width:px;
+}
+#ele3{
+    margin-top:2.5cm;
+}
+#text{
+  height: 50px;
+}
+.ib{
+    background-color:#353535;
+    border-radius: 8px;
+    margin-top:1cm;
+    margin-left:40px;
+    height:150px;
+    width:750px;
+
+}
+
